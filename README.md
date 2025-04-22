@@ -3,7 +3,7 @@
 
 ![Workshop Banner](https://your-image-url.com/banner.png)
 
-> _“Build like a coder, think like an artist, prompt like an Prompter.”_ 🎨💻
+> _“Build like a coder, think like an artist, prompt like an enginner.”_ 🎨💻
 
 ---
 
