@@ -39,7 +39,7 @@ In this session, you'll learn to harness **text + images + smart prompts** to un
 
 Just one click to get started:
 
-[![Open In Colab](https://colab.research.google.com/drive/1n9Jl5FsNrw_n-T9EDa29LaA3FrQUxN2U?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/drive/1n9Jl5FsNrw_n-T9EDa29LaA3FrQUxN2U?usp=sharing)]
 
 > 🔗 File: `Build_with_AI_GDG_On_Campus_BBIT.ipynb`
 
