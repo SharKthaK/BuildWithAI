@@ -1,7 +1,7 @@
 # 🤖 BuildWithAI: Multimodal Prompt Engineering Workshop  
 ## 🚀 Organized by GDG On Campus BBIT
 
-![Workshop Banner](https://drive.google.com/file/d/1S4BLsOZNc8evy3szmPbfabZOiX-Hh1h3/view?usp=sharing)
+![Workshop Banner](https://drive.google.com/uc?export=view&id=1S4BLsOZNc8evy3szmPbfabZOiX-Hh1h3)
 
 > _“Build like a coder, think like an artist, prompt like an enginner.”_ 🎨💻
 
